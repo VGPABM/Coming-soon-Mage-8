@@ -9,7 +9,7 @@ a:hover {
 }
 @font-face {
   font-family: Airstrike;
-  src: url(https://www.dafont.com/airstrike.font);
+  src: url("../fonts/airstrike.ttf");
 }
 
 /* Custom default button */
